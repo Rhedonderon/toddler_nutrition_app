@@ -13,3 +13,15 @@ Using Python (pandas) to clean, structure, and join primary survey data with com
 
 ### System Design Thinking:
 Architecting a relational data schema built around user-centric app features like bioavailability tracking and multi-caregiver syncing.
+
+## 📋 Phase 1: Data Collection & Requirements Gathering
+
+To validate the features of this toddler nutrition product concept and understand real-world user friction, I conducted primary market research using a targeted, anonymous consumer survey. 
+
+* **Target Audience:** Parents and primary caregivers of toddlers aged 1 to 3.
+* **Objective:** Identify the core pain points regarding toddler meal prep, nutritional tracking anxiety, and desired application features.
+* **Survey Design:** A 10-question instrument tracking demographics, mealtime frequencies, logging friction, and feature prioritization.
+
+### Project Artifacts
+* **Blank Form User Experience:** You can view the live layout and question logic of the active survey here: [https://docs.google.com/forms/d/e/1FAIpQLScmcMNsLLhEIGq5YWMWbiB1Dy8RXyE1Cs9bwoNvZiRwkt7oDg/viewform?usp=preview]
+* **Raw Survey Dataset:** The completed, anonymous response data is stored as a flat file in this repository at `data/raw_survey_responses.csv` *(Note: This dataset will be populated upon completion of the data collection phase).*
